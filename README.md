@@ -8,6 +8,10 @@
 
 ### Preguntas
 
+### ¿Cual usuario debe ser el colaborador?
+
+Es mi cuenta de github **blodssvikq**
+
 ### ¿Como agregar a un colaborador?
 
 Les dejo un [gif](/media/collaborator.gif) con el proceso
